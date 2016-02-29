@@ -1,7 +1,7 @@
 name: krafttanken
 favicon: null
-layout_spectrum: 0.12605652236379683
-typography_spectrum: 0.40413073473609984
+layout_spectrum: 0.9269
+typography_spectrum: 0.84206
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#f9fff6'
+    - '#d0d0d8'
+    - '#172600'
+    - '#6d6147'
+    - '#a6977a'
   brandStrength: 0.6848822075407952
   lightness: 0.8424757032189518
   saturation: 0.6135027762502432
