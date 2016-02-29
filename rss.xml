@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[krafttanken]]></title>
         <description><![CDATA[krafttanken]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/krafttanken/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Feb 2016 17:48:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 29 Feb 2016 17:56:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/krafttanken/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/79b3e697-7ec7-4f3c-ba6a-16df0acaa8f1.jpg">]]></description>
+            <link>https://thegrid.ai/krafttanken/1ddb5934-cae6-4302-84c8-e9355ff18138/index.html</link>
+            <guid isPermaLink="false">1ddb5934-cae6-4302-84c8-e9355ff18138</guid>
+            <pubDate>Mon, 29 Feb 2016 17:56:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/84f99b4e-e1ce-4425-992e-572c03b6e91e.jpg">]]></description>
-            <link>undefinede730768f-9d56-4259-853d-ce3fcaea171a/index.html</link>
+            <link>https://thegrid.ai/krafttanken/e730768f-9d56-4259-853d-ce3fcaea171a/index.html</link>
             <guid isPermaLink="false">e730768f-9d56-4259-853d-ce3fcaea171a</guid>
             <pubDate>Mon, 29 Feb 2016 17:48:13 GMT</pubDate>
         </item>
